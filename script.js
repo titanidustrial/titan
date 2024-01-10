@@ -24,7 +24,7 @@ SOFTWARE.
 
 'use strict';
 
-// Mobile promo section
+/*// Mobile promo section
 
 const promoPopup = document.getElementsByClassName('promo')[0];
 const promoPopupClose = document.getElementsByClassName('promo-close')[0];
@@ -49,7 +49,7 @@ const googleLink = document.getElementById('google_link');
 googleLink.addEventListener('click', e => {
     ga('send', 'event', 'link promo', 'app');
     window.open('https://play.google.com/store/apps/details?id=games.paveldogreat.fluidsimfree');
-});
+}); */
 
 // Simulation section
 
